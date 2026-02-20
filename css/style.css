@@ -12,3 +12,16 @@ body {
 textarea {
     resize: none;
 }
+
+#tweetBtn {
+    min-width: 80px;
+}
+
+#tweetBtn:hover {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+#tweetBtn:active {
+    background-color: #0b5ed7;
+}
