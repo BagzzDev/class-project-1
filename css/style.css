@@ -1,0 +1,10 @@
+body {
+    background-color: #e9f5ff;
+    color: #333;
+}
+
+.profile-pic {
+    width: 48px;
+    height: 48px;
+    background-color: #ccc;
+}
