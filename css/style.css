@@ -8,3 +8,7 @@ body {
     height: 48px;
     background-color: #ccc;
 }
+
+textarea {
+    resize: none;
+}
